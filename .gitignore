@@ -1,0 +1,8 @@
+*.swp
+_site
+.tmp
+.sass-cache
+.grunt
+Gemfile.lock
+/bower_components/
+/node_modules/
